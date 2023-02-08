@@ -1,0 +1,1 @@
+"# artwork_report_powerbi"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/isotop786/artwork_report_powerbi.gitgit push -u origin main
